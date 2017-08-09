@@ -1,0 +1,84 @@
+#!/usr/bin/env php
+# Translation of the WordPress plugin Feed Google Buzz 1.1 by Satiro Marra.
+# Copyright (C) 2010 Satiro Marra
+# This file is distributed under the same license as the Feed Google Buzz package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Feed Google Buzz 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/feed-google-buzz\n"
+"POT-Creation-Date: 2010-03-27 14:40+0000\n"
+"PO-Revision-Date: 2010-03-27 16:37+0100\n"
+"Last-Translator: Satiro Marra <soy@satiro.es>\n"
+"Language-Team: es_ES <soy@satiro.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: feed-google-buzz-functions.php:101
+#, php-format
+msgid "hace %d segundos"
+msgstr "%d seconds ago"
+
+#: feed-google-buzz-functions.php:102
+#, php-format
+msgid "hace %d minutos"
+msgstr "%d minutes ago"
+
+#: feed-google-buzz-functions.php:103
+#, php-format
+msgid "hace %d horas"
+msgstr "%d hours ago"
+
+#: feed-google-buzz.php:79
+msgid "Error cargando datos de Google Buzz!"
+msgstr "Error loading Google Buzz data."
+
+#: feed-google-buzz.php:171
+msgid "Configura este widget en la <a href='%s'>página de opciones</a>"
+msgstr "Configure this widget in the <a href='%s'> options page </a>"
+
+#: options.php:20
+msgid "Tus posts de Google Buzz en tu Wordpress"
+msgstr "Your posts from Google Buzz in your Wordpress"
+
+#: options.php:35
+msgid "Usuario de Gmail"
+msgstr "Gmail username"
+
+#: options.php:37
+msgid "sin @gmail.com"
+msgstr "without @gmail.com"
+
+#: options.php:41
+msgid "Numero de Posts"
+msgstr "Number of Posts"
+
+#: options.php:43
+msgid "Pordefecto 15"
+msgstr "default 15"
+
+#: options.php:49
+msgid "Guardar configuraci&oacute;n"
+msgstr "Save configuration"
+
+#: options.php:51
+msgid "m&aacute;s info"
+msgstr "more info"
+
+#: feed-google-buzz.php:151
+msgid "comentar"
+msgstr "comment"
+
+#. Description of the plugin/theme
+msgid "Visualiza post de Google Buzz."
+msgstr "View Google post Buzz."
+
+#. Description of the plugin/theme
+msgid "Vete a Apariencia &gt; Widgets y coloca el widget Feed Google Buzz en la barra lateral ó <a href='%s'>click aqu&iacute; </a>"
+msgstr "Go to Appearance &gt; Widgets and Google puts the Buzz Feed widget in the sidebar or <a href='%s'>click here</a>"
+
